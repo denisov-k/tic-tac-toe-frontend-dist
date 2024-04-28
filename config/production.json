@@ -1,7 +1,7 @@
 {
     "api": {
-        "http" : {
-            "baseURL": "https://codingstones.ru/"
+        "sockets" : {
+            "baseURL": "http://localhost:8000/"
         }
     }
 }
