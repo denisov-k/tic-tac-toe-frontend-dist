@@ -2,6 +2,9 @@
     "api": {
         "sockets" : {
             "baseURL": "http://localhost:8000/"
+        },
+        "ton": {
+            "manifestUrl": "https://denisov-k.github.io/tic-tac-toe-frontend-dist/tonconnect-manifest.json"
         }
     }
 }
